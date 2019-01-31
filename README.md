@@ -17,8 +17,8 @@ The CNN model
 |Convolutional Layer |Filter Size:2*2 Filters:32       |
 |Convolutional Layer |Filter Size:2*2 Filters:32       |
 |Max Pooling Layer   |Pool Size:2*2                    |
-|Convolutional Layer |Filter Size:2*2 Filters:32       |
-|Convolutional Layer |Filter Size:2*2 Filter:32        |
+|Convolutional Layer |Filter Size:2*2 Filters:64       |
+|Convolutional Layer |Filter Size:2*2 Filter:64        |
 |MaxPooling Layer    |Pool Size:2*2                    |
 |Flatten             |Reshape 4D into 2D               |
 |Dense               |Neural Network Layer, Neurons:128|
